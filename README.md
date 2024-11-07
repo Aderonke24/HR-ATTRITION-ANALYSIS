@@ -16,7 +16,7 @@
 
 
 ### ***Project Overview***
-In this project, we explored the HR Attrition data through various data analysis stages as listed in the outline above to uncover meaningful insights to guide in making reasonable decisions.
+In this project, we explored the HR Attrition data through various data analysis stages as listed in the outline above to uncover meaningful insights to guide in making reasonable decisions. The data is loaded into the Power BI application and transformed to performed  data cleaning, carry out DAX Functions, and then generate interractive visuals, such as Attrition Rate, Attrition by Region, Attrition by Employee, etc.
 
 ---
 ### ***Data Sources***
@@ -29,12 +29,9 @@ The major data source used for this project is HR Data.xlsx downloaded from the 
 
 ### ***Tools Used***
 
-- Microsoft Excel [Download Here](https://www.microsoft.com)
-  1. For data cleaning
-  2. For analysis
-  3. For visualization
- - SQL For data query
- - Microsoft Power BI for Interractive Visualization.
+- Microsoft Power BI [Download Here](https://www.microsoft.com/en-us/power-platform/products/power-bi)
+  1. Data Cleaning and formating
+  2. For Interractive Visualization.
 ---
 
 ### ***Data Cleaning and Preparation***
