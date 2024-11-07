@@ -2,7 +2,8 @@
 ---
 ### ***Project Title:HR-ATTRITION-ANALYSIS***
 ### ***Outline***
-[Project Overview](#prject-overview)
+
+[Project Overview](#project-overview)
 
 [Data Sources](#data-sources)
 
@@ -10,9 +11,8 @@
 
 [Data Cleaning and Preparation](#data-cleaning-and-preparation)
 
-[Exploratory Data Analysis](#exploratory-data-analysis)
+[Exploratory Data Analysis and Data Visualization](#exploratory-data-analysis-and-data-visualization)
 
-[Data Visualization](#data-visualization)
 
 
 ### ***Project Overview***
@@ -43,12 +43,25 @@ The major data source used for this project is HR Data.xlsx downloaded from the 
 ---
 
 
-### ***Exploratory Data Analysis***
+### ***Exploratory Data Analysis and Data Visualization***
+---
+1. ### Analysis based on the Entire  HR data
+   
 ---
 
 
 
 ![Screenshot 2024-11-07 152440](https://github.com/user-attachments/assets/028b3bb3-7ca7-45c7-bb89-fdeda5b34de0)
+
+---
+
+2. ### Analysis based on Human Resources Educational field 
+
+
+
+![Screenshot 2024-11-07 154404](https://github.com/user-attachments/assets/467e49c6-2cf6-4cad-bd07-d6a01b5fff09)
+
+
 
 
 
