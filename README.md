@@ -43,6 +43,13 @@ The major data source used for this project is HR Data.xlsx downloaded from the 
 ---
 
 
+### ***Exploratory Data Analysis***
+---
+
+
+
+![Screenshot 2024-11-07 152440](https://github.com/user-attachments/assets/028b3bb3-7ca7-45c7-bb89-fdeda5b34de0)
+
 
 
 
